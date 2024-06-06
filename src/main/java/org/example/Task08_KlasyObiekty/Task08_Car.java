@@ -1,4 +1,4 @@
-package org.example.Task08;
+package org.example.Task08_KlasyObiekty;
 
 public class Task08_Car {
     String brand;

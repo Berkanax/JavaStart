@@ -1,8 +1,8 @@
-package org.example.Task08;
+package org.example.Task08_KlasyObiekty;
 
 public class Task08_CarShop {
     public static void main(String[] args) {
-        
+
         Task08_Car car1 = new Task08_Car();
         car1.brand = "Audi";
         car1.model = "A4";
