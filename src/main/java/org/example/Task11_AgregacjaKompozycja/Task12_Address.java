@@ -1,8 +1,8 @@
 package org.example.Task11_AgregacjaKompozycja;
 
-public class Task11_Adress {
+public class Task12_Address {
+    String city;
+    String postalCode;
     String street;
     String number;
-    String postal;
-    String city;
 }
