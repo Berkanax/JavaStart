@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task01_HelloWorld;
 
 public class Task04_01 {
     String firstname;

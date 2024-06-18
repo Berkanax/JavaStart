@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task01_HelloWorld;
 /*
 Napisz program, który wyświetli o tobie kilka informacji w postaci takiej jak przedstawiono poniżej.
 Cześć Jan, słyszałem, że masz 25 lat i uczysz się programowania. Czy to prawda?

@@ -7,16 +7,16 @@ public class Task24_PointController {
         int currentX = point.getX();
         point.setX(currentX + 1);
     }
+    public void addY(Task24_Point point){
+        int currentY = point.getY();
+        point.setY(currentY + 1);
+    }
     public void minusX(Task24_Point point){
         int currentX = point.getX();
         point.setX(currentX - 1);
     }
-    public void addY(Task24_Point point){
-        int currentX = point.getY();
-        point.setY(currentX + 1);
-    }
     public void minusY(Task24_Point point){
-        int currentX = point.getY();
-        point.setY(currentX - 1);
+        int currentY = point.getY();
+        point.setX(currentY - 1);
     }
 }

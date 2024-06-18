@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task01_HelloWorld;
 /*
 Napisz program, w którym zadeklarujesz dwie zmienne typu int o nazwach x oraz y. Przypisz do nich dowolne liczby, a następnie za pomocą operatorów logicznych i matematycznych wyświetl wynik następujących zdań logicznych:
 

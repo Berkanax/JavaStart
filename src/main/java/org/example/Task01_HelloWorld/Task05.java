@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task01_HelloWorld;
 /*
 Napisz program, w którym zadeklarujesz zmienne, które będą reprezentować samochód w salonie samochodowym poprzez:
 

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task01_HelloWorld;
 /*
 Kalkulator Brutto/Netto
  */
