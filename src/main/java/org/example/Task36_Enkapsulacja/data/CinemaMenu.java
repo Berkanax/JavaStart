@@ -40,7 +40,7 @@ public class CinemaMenu {
                 case 2: {
                     System.out.println("## Rozpoczęto korektę danych");
                     System.out.println("# Wprowadź imię:");
-                    client.setName(scanner.nextLine());
+                    scanner.nextLine();
                     client.setName(scanner.nextLine());
                     System.out.println("# Wprowadź nazwisko:");
                     client.setLastName(scanner.nextLine());
