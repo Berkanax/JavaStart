@@ -31,6 +31,6 @@ public class Task45_App {
             default -> System.out.println("Nierozpoznano symbolu: " + action);
         }
         sc.close();
-        System.out.println("Calculator zakończył działanie");
+        System.out.println("Task60_Calculator zakończył działanie");
     }
 }
